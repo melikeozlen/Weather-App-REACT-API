@@ -19,6 +19,7 @@ Kullandıklarım:
 Responsive bir tasarımdır :rotating_light:
 
 ***ReactJs***  
+***Css Module***  
 ***Hook***  
 ***Redux Toolkit***  
 ***Fetch***  
