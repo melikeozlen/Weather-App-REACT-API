@@ -1,9 +1,9 @@
 # Weather-App-REACT-API
 
-URL:https://weather-app-melikeozlen.vercel.app/  
 Bu uygulama şehir isimlerine göre hava durumu bilgilerini getiremektedir. Bu uygulama ve tasarım <a href="https://theultimateapichallenge.com/weather-api-react" rel="nofollow">The Ultimate API challenge</a>'a aitttir. Tasarımınve tüm uygulamanın kodlanması tarafınmca yapılmıştır.
 ![image](https://user-images.githubusercontent.com/44196940/170874149-3f36a373-1914-4f0e-ae88-36eeb580ae2e.png)
-
+<br>
+URL:https://weather-app-melikeozlen.vercel.app/  
 <p>
  <img width="49%"  src="https://user-images.githubusercontent.com/44196940/170873002-7b292fdd-897d-4f1d-994d-520d4f474bfc.png">
  <img width="49%"  src="https://user-images.githubusercontent.com/44196940/170873073-173145f3-3e22-4d0b-a47f-9aa7b9c4fb92.png">
