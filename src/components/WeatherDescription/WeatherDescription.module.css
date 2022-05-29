@@ -1,0 +1,20 @@
+.description{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    padding: 1rem;
+}
+.description p{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+.description span{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.description sup{
+    font-weight: 200 !important;
+    font-size: 1.35rem;
+}
