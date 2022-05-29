@@ -1,6 +1,7 @@
 # Weather-App-REACT-API
 
 URL:https://weather-app-melikeozlen.vercel.app/
+Bu uygulama şehir isimlerine göre hava durumu bilgilerini getiremektedir. Bu uygulama ve tasarım <a href="https://theultimateapichallenge.com/weather-api-react" rel="nofollow">The Ultimate API challenge</a>'a aitttir. Tasarımınve tüm uygulamanın kodlanması tarafınmca yapılmıştır.
 ![image](https://user-images.githubusercontent.com/44196940/170874149-3f36a373-1914-4f0e-ae88-36eeb580ae2e.png)
 
 <p>
@@ -11,17 +12,15 @@ URL:https://weather-app-melikeozlen.vercel.app/
   
 </p>
 
-Bu uygulama şehir isimlerine göre hava durumu bilgilerini getiremektedir. Bu uygulama ve tasarım <a href="https://theultimateapichallenge.com/weather-api-react" rel="nofollow">The Ultimate API challenge</a>'a aitttir. Tasarımınve tüm uygulamanın kodlanması tarafınmca yapılmıştır.
-
 Kullandıklarım:  
 
 Responsive bir tasarımdır :rotating_light:
 
-***ReactJs***
-***Hook***
-***Redux Toolkit***
-***Fetch***
-***API***
+***ReactJs***  
+***Hook***  
+***Redux Toolkit***  
+***Fetch***  
+***API***  
 
 ## Responsive :star2:  
 <p align="center">
