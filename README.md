@@ -17,11 +17,11 @@ Kullandıklarım:
 
 Responsive bir tasarımdır :rotating_light:
 
-## ReactJs
-## Hook
-## Redux Toolkit
-## Fetch
-## API
+***ReactJs***
+***Hook***
+***Redux Toolkit***
+***Fetch***
+***API***
 
 ## Responsive :star2:  
 <p align="center">
